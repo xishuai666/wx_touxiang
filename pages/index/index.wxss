@@ -1,0 +1,21 @@
+/* pages/index/index.wxss */
+
+.container{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* 水平居中 */
+  align-items: center;
+  /* 分散布局 */
+  justify-content: space-around;
+}
+image{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+
+.wz{
+  font-size: 18px;
+  color: red;
+}

@@ -1,0 +1,6 @@
+<!--pages/index/index.wxml-->
+<view class='container'>
+  <image src="{{img}}" lazy-load mode="aspectFit"></image>
+  <text class="wz">欢迎 {{name}}</text>
+  <button open-type="getUserInfo" bindgetuserinfo="getMyInfo">点击获取头像和昵称</button>
+</view>
