@@ -6,7 +6,8 @@ Page({
    */
   data: {
     img: '/images/index/wxlogo1.png',
-    name: ''
+    name: '',
+    motto: 'motto',
   },
   getMyInfo:function(e){
     console.log(e.detail.userInfo)

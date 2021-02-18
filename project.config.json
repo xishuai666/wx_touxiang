@@ -23,7 +23,7 @@
     "compileHotReLoad": false,
     "useMultiFrameRuntime": true,
     "useApiHook": true,
-    "useApiHostProcess": false,
+    "useApiHostProcess": true,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
@@ -41,7 +41,7 @@
   },
   "compileType": "miniprogram",
   "libVersion": "2.15.0",
-  "appid": "wx3724c13f4af0b3cb",
+  "appid": "wx9a730ac29e9617cb",
   "projectname": "one",
   "cloudfunctionTemplateRoot": "",
   "watchOptions": {
